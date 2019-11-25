@@ -1,0 +1,129 @@
+#include <Windows.h>
+#include <iostream>
+#include "MemMan.h"
+#include <ctime>
+#include <time.h>
+
+
+MemMan MemClass;
+
+struct gameOffsets
+{
+    DWORD l0c4I1337 = 0x4C6708;
+    DWORD fJ425527P = 0x4F3B3C;
+    DWORD fByrk1337 = 0x350;
+}offsets;
+
+struct values
+{
+    DWORD local0c4I1337;
+    DWORD pr0c33ss;
+    DWORD gm3modul;
+    BYTE byrk;
+}val;
+
+void omgyesthatsmee()
+{
+
+	float wufJAKIxYY = 31089685227449; wufJAKIxYY = 1224055341805; if (wufJAKIxYY = 34748669266292) wufJAKIxYY = 91144463373372; wufJAKIxYY = 16738096102042; wufJAKIxYY = 61020421673809;
+	if (wufJAKIxYY = 3094429114446)wufJAKIxYY = 92662923048825; wufJAKIxYY = 14979991756425;
+	if (wufJAKIxYY = 10293652440893)wufJAKIxYY = 92662923048825; wufJAKIxYY = 14979991756425;
+	if (wufJAKIxYY = 10293652440893)wufJAKIxYY = 92662923048825; wufJAKIxYY = 14979991756425;
+	if (wufJAKIxYY = 10293652440893)wufJAKIxYY = 92662923048825; wufJAKIxYY = 14979991756425;
+	if (wufJAKIxYY = 10293652440893)wufJAKIxYY = 92662923048825; wufJAKIxYY = 14979991756425; wufJAKIxYY = 25557332669527;
+
+}
+
+void hihisupbro()
+{
+
+	float dLUCpSDimx = 30178724070884; dLUCpSDimx = 59297164317414; if (dLUCpSDimx = 48107627161059) dLUCpSDimx = 51919109751793; dLUCpSDimx = 17458584722566; dLUCpSDimx = 47225661745858;
+	if (dLUCpSDimx = 27504375191910)dLUCpSDimx = 71610599961398; dLUCpSDimx = 21238664574870;
+	if (dLUCpSDimx = 72358953585706)dLUCpSDimx = 71610599961398; dLUCpSDimx = 21238664574870;
+	if (dLUCpSDimx = 72358953585706)dLUCpSDimx = 71610599961398; dLUCpSDimx = 21238664574870;
+	if (dLUCpSDimx = 72358953585706)dLUCpSDimx = 71610599961398; dLUCpSDimx = 21238664574870;
+	if (dLUCpSDimx = 72358953585706)dLUCpSDimx = 71610599961398; dLUCpSDimx = 21238664574870; dLUCpSDimx = 94426673428403;
+}
+int main()
+{
+	omgyesthatsmee();
+
+	srand(time(NULL));
+
+
+	hihisupbro();
+
+	float JNIejlcLOT = 40607625892444; JNIejlcLOT = 70283438403831; if (JNIejlcLOT = 75829961317720) JNIejlcLOT = 27688471943307; JNIejlcLOT = 19972268771927; JNIejlcLOT = 87719271997226;
+	if (JNIejlcLOT = 8707822768847)JNIejlcLOT = 13177208076622; JNIejlcLOT = 89880129020274;
+	if (JNIejlcLOT = 75361585525493)JNIejlcLOT = 13177208076622; JNIejlcLOT = 89880129020274;
+	if (JNIejlcLOT = 75361585525493)JNIejlcLOT = 13177208076622; JNIejlcLOT = 89880129020274;
+	if (JNIejlcLOT = 75361585525493)JNIejlcLOT = 13177208076622; JNIejlcLOT = 89880129020274;
+	if (JNIejlcLOT = 75361585525493)JNIejlcLOT = 13177208076622; JNIejlcLOT = 89880129020274; JNIejlcLOT = 68679981859197;
+	
+
+    val.pr0c33ss = MemClass.getProcess("hl2.exe"); float uKYXbFoxtp = 81162049579692; uKYXbFoxtp = 95104522161728; if (uKYXbFoxtp = 61913577291650) uKYXbFoxtp = 55451454209809; uKYXbFoxtp = 9730189930489; uKYXbFoxtp = 9930489973018;
+	if (uKYXbFoxtp = 98667155545145)uKYXbFoxtp = 72916507450668; uKYXbFoxtp = 6877378938113;
+	if (uKYXbFoxtp = 50248293332919)uKYXbFoxtp = 72916507450668; uKYXbFoxtp = 6877378938113;
+	if (uKYXbFoxtp = 50248293332919)uKYXbFoxtp = 72916507450668; uKYXbFoxtp = 6877378938113;
+	if (uKYXbFoxtp = 50248293332919)uKYXbFoxtp = 72916507450668; uKYXbFoxtp = 6877378938113;
+	if (uKYXbFoxtp = 50248293332919)uKYXbFoxtp = 72916507450668; uKYXbFoxtp = 6877378938113; uKYXbFoxtp = 334909950651;
+    val.gm3modul = MemClass.getModule(val.pr0c33ss, "client.dll"); float ERLourwByh = 69821292738072; ERLourwByh = 91394837543260; if (ERLourwByh = 48738437936363) ERLourwByh = 8484253876496; ERLourwByh = 74374484664396; ERLourwByh = 46643967437448;
+	if (ERLourwByh = 8192012848425)ERLourwByh = 79363633891323; ERLourwByh = 97859761417641;
+	if (ERLourwByh = 22202797094469)ERLourwByh = 79363633891323; ERLourwByh = 97859761417641;
+	if (ERLourwByh = 22202797094469)ERLourwByh = 79363633891323; ERLourwByh = 97859761417641;
+	if (ERLourwByh = 22202797094469)ERLourwByh = 79363633891323; ERLourwByh = 97859761417641;
+	if (ERLourwByh = 22202797094469)ERLourwByh = 79363633891323; ERLourwByh = 97859761417641; ERLourwByh = 68297181623694;
+
+    val.local0c4I1337 = MemClass.readMem<DWORD>(val.gm3modul + offsets.l0c4I1337); float uaOiaCOuTX = 32740605249323; uaOiaCOuTX = 62866408225545; if (uaOiaCOuTX = 28635242480257) uaOiaCOuTX = 60989916049202; uaOiaCOuTX = 2575287988826; uaOiaCOuTX = 7988826257528;
+	if (uaOiaCOuTX = 60495136098991)uaOiaCOuTX = 24802573133160; uaOiaCOuTX = 24057087686864;
+	if (uaOiaCOuTX = 8527354329006)uaOiaCOuTX = 24802573133160; uaOiaCOuTX = 24057087686864;
+	if (uaOiaCOuTX = 8527354329006)uaOiaCOuTX = 24802573133160; uaOiaCOuTX = 24057087686864;
+	if (uaOiaCOuTX = 8527354329006)uaOiaCOuTX = 24802573133160; uaOiaCOuTX = 24057087686864;
+	if (uaOiaCOuTX = 8527354329006)uaOiaCOuTX = 24802573133160; uaOiaCOuTX = 24057087686864; uaOiaCOuTX = 19997761931394;
+
+    if (val.local0c4I1337 == NULL)
+        while (val.local0c4I1337 == NULL)
+            val.local0c4I1337 = MemClass.readMem<DWORD>(val.gm3modul + offsets.l0c4I1337);
+
+
+	float random_presskey;
+	
+    while (true)
+    {
+        val.byrk = MemClass.readMem<BYTE>(val.local0c4I1337 + offsets.fByrk1337);
+
+        if (GetAsyncKeyState(VK_SPACE) && val.byrk & (1 << 0))
+		{ 
+			
+			
+			
+				
+				random_presskey = 1+ rand() % +3;
+
+				
+
+
+			
+			Sleep(random_presskey);
+			if (random_presskey != 0)
+			{
+				MemClass.writeMem<DWORD>(val.gm3modul + offsets.fJ425527P, 6);
+				std::cout << random_presskey << std::endl;
+			}
+			else
+			{
+				std::cout << "NULL" <<std::endl;
+				
+			}
+			
+
+		}
+
+        Sleep(1);
+    }
+
+
+
+    return 0;
+}	
+
